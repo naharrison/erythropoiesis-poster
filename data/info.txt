@@ -1,0 +1,12 @@
+ITEM:
+570
+130
+60
+Hemocytoblasts
+Also known as Hematopoietic Stem Cells. These Bad Larrys live in the red bone marrow and give rise to other blood cells via a process called haematopoiesis.
+ITEM:
+154
+411
+25
+EPO
+Short for Erythropoietin. This is a peptide hormone produced mainly in the kidneys. The kidneys release EPO in response to low oxygen levels in kidney tissues. EPO stimulates the red bone marrow to produce red blood cells.
